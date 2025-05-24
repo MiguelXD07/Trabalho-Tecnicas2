@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/BG_Music.wma</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/footsteps forest-.wav</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/jump.wav</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/melee swing 2.wav</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/monster hit.wav</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/Player Death.wav</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Fonts/DefaultFont.spritefont</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/Background.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/Piso.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue atack.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue death.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue_idle.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue_jump.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue_run_ghost.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/rogue_run.png</File>
+    <File>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Sprites/trees.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

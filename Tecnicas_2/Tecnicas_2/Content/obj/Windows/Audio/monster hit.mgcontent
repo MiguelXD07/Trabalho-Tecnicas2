@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/Audio/monster hit.wav</SourceFile>
+  <SourceTime>2025-05-24T19:56:34.4594841+01:00</SourceTime>
+  <DestFile>C:/Users/migue/source/repos/Trabalho-Tecnicas-Fase2/Tecnicas_2/Tecnicas_2/Content/bin/Windows/Audio/monster hit.xnb</DestFile>
+  <DestTime>2025-05-24T19:57:09.8522187+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-04-05T11:10:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T11:10:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

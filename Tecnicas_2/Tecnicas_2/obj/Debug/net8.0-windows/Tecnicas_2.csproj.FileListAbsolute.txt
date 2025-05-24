@@ -1,0 +1,78 @@
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.exe
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.deps.json
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.runtimeconfig.json
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.pdb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.AssemblyInfo.cs
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.Up2Date
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\refint\Tecnicas_2.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.pdb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.genruntimeconfig.cache
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\ref\Tecnicas_2.dll
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_idle.xnb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\Piso.xnb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\tree.xnb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\trees.xnb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_jump.xnb
+C:\Users\migue\source\repos\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_run.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\tree.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\Piso.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_idle.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_jump.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_run.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\trees.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.exe
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.deps.json
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.runtimeconfig.json
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Tecnicas_2.pdb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.AssemblyReference.cache
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.AssemblyInfoInputs.cache
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.AssemblyInfo.cs
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.CoreCompileInputs.cache
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.sourcelink.json
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.csproj.Up2Date
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\refint\Tecnicas_2.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.pdb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\Tecnicas_2.genruntimeconfig.cache
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\obj\Debug\net8.0-windows\ref\Tecnicas_2.dll
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Fonts\DefaultFont.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\footsteps forest-.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\jump.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\melee swing 2.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\monster hit.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\Player Death.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue death.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue_run_ghost.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\rogue atack.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\BG Music Epic.wma
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\BG_Music.xnb
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Audio\BG_Music.wma
+C:\Users\migue\Source\Repos\Trabalho-Tecnicas-Fase2\Tecnicas_2\Tecnicas_2\bin\Debug\net8.0-windows\Content\Sprites\Background.xnb

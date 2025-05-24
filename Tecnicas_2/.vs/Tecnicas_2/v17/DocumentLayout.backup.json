@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\endstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\endstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\models\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|c:\\users\\migue\\source\\repos\\trabalho-tecnicas-fase2\\tecnicas_2\\tecnicas_2\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE4B253-E8CE-45E7-B4B1-F098B2706927}|Tecnicas_2\\Tecnicas_2.csproj|solutionrelative:tecnicas_2\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndState.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\EndState.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\EndState.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\EndState.cs",
+              "RelativeToolTip": "Tecnicas_2\\EndState.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:08:40.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Button.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Button.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Button.cs",
+              "RelativeToolTip": "Tecnicas_2\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:08:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\ScoreManager.cs",
+              "RelativeToolTip": "Tecnicas_2\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:07:52.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Game1.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Game1.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Game1.cs",
+              "RelativeToolTip": "Tecnicas_2\\Game1.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:08:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Models\\Player.cs",
+              "RelativeToolTip": "Tecnicas_2\\Models\\Player.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAqwKkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:37:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Models\\Enemy.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Models\\Enemy.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Models\\Enemy.cs",
+              "RelativeToolTip": "Tecnicas_2\\Models\\Enemy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:39:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Mapa.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Mapa.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Mapa.cs",
+              "RelativeToolTip": "Tecnicas_2\\Mapa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:14:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Camera.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Camera.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Camera.cs",
+              "RelativeToolTip": "Tecnicas_2\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:37:03.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Objeto.cs",
+              "RelativeDocumentMoniker": "Tecnicas_2\\Objeto.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\Trabalho-Tecnicas-Fase2\\Tecnicas_2\\Tecnicas_2\\Objeto.cs",
+              "RelativeToolTip": "Tecnicas_2\\Objeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:14:11.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
