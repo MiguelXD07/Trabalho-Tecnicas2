@@ -13,8 +13,8 @@ namespace Tecnicas_2
     {
         public Rectangle Bounds;
         public string Text;
-        public bool IsHovered { get; private set; }
-        public bool IsClicked { get; private set; }
+        public bool IsHovered;
+        public bool IsClicked;
 
         private SpriteFont _font;
 
