@@ -7,10 +7,10 @@ namespace Tecnicas_2.Models
 {
     public class Player : Objeto
     {
-        public Texture2D IdleTexture { get; set; }
-        public Texture2D WalkTexture { get; set; }
-        public Texture2D JumpTexture { get; set; }
-        public Texture2D AttackTexture { get; set; }
+        public Texture2D IdleTexture;
+        public Texture2D WalkTexture;
+        public Texture2D JumpTexture;
+        public Texture2D AttackTexture;
 
         private int idleFrames = 1, walkFrames = 6, jumpFrames = 1, attackFrames = 8;
         private int currentFrame = 0;
@@ -19,12 +19,12 @@ namespace Tecnicas_2.Models
         private enum PlayerState { Idle, Walk, Jump, Attack }
         private PlayerState state = PlayerState.Idle, lastState = PlayerState.Idle;
 
-        public Vector2 Position { get; set; }
-        public Vector2 Velocity { get; set; }
-        public float Speed { get; set; } = 400f;
-        public float JumpVelocity { get; set; } = -500f;
-        public bool IsOnGround { get; set; }
-        public float Scale { get; set; } = 1f;
+        public Vector2 Position;
+        public Vector2 Velocity;
+        public float Speed = 400f;
+        public float JumpVelocity = -500f;
+        public bool IsOnGround;
+        public float Scale; = 1f;
         private bool facingRight = true;
 
         private const float Gravity = 1200f;
@@ -36,7 +36,7 @@ namespace Tecnicas_2.Models
         private const float AttackDuration = 0.96f;
         private const int AttackWidth = 60, AttackHeight = 40;
 
-        public bool IsDead { get; private set; } = false;
+        public bool IsDead = false;
 
         public Player(Vector2 startPosition, int spriteWidth, int spriteHeight)
         {
