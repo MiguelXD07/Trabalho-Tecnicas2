@@ -109,17 +109,7 @@ namespace Tecnicas_2.Models
             var sourceRect = new Rectangle(frame * FrameWidth, 0, FrameWidth, FrameHeight);
             var effects = _direction < 0 ? SpriteEffects.FlipHorizontally : SpriteEffects.None;
 
-            spriteBatch.Draw(
-                texture,
-                new Vector2((int)Position.X, (int)Position.Y),
-                sourceRect,
-                Color.White,
-                0f,
-                Vector2.Zero,
-                1f,
-                effects,
-                0f
-            );
+            spriteBatch.Draw(texture, new Vector2((int)Position.X, (int)Position.Y), sourceRect, Color.White, 0f, Vector2.Zero, 1f, effects, 0f);
         }
 
         public bool CollidesWith(Rectangle playerRect)
