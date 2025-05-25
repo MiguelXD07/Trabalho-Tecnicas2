@@ -4,8 +4,8 @@ namespace Tecnicas_2
 {
     public class Camera
     {
-        public Matrix Transform { get; private set; }
-        public Vector2 Position { get; private set; }
+        public Matrix Transform;
+        public Vector2 Position;
         private int viewportWidth;
         private int viewportHeight;
 
