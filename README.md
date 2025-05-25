@@ -14,17 +14,18 @@ https://opengameart.org
 https://mixkit.co
 
 ## Introdução
-Este projeto feito no âmbito da cadeira de Técnicas de Desenvolvimento de Jogos Digitais teve como objetico realizar um jogo de mundo aberto e linear em Monogame sem usar tiles.
+Este projeto foi desenvolvido no âmbito da unidade curricular de Técnicas de Desenvolvimento de Jogos Digitais, tendo como objetivo o desenvolvimento de um jogo em MonoGame, com um mundo aberto e linear, sem o uso de tiles.
 
-O jogo realizado pelo nosso grupo é um sidescroller arena survival em que o jogador tenta sobreviver os constantes ataques dos inimigos dentro de uma arena que se estende para ambos os lados. Pontos são acumulados ao derrotar inimigos para refletir o tempo de sobrevivência do jogador e exibidos quando o jogador eventualmente perder.
+Para este trabalho, optámos por desenvolver um Sidescroller Arena Survival onde o jogador tem como objetivo sobreviver o tempo máximo dentro de uma arena horizontal, que se estende para ambos os lados, derrotando o maior número de inimigos possível e desviando-se dos seus ataques constantes. A cada inimigo derrotado o jogador acumula pontos, os quais representam o tempo que o mesmo se manteve vivo. O jogo termina quando o jogador é derrotado.
 
-Os ficheiros não estão muito bem organizados, mas temos numa pasta Models as classes para o Player e Enemy e o resto na parte de fora como as classes Buttons, ScoreManager, Objeto, Mapa, EndState e Game1, tambem temos a pasta Content e dentro dessa pasta temos 3 pastas essencias Sprites, Audio e Fonts, que têm dentro de cada uma as imagens, os sons e as fontes de texto respetivamente.
+Não foi possível uma organização mais eficiente dos ficheiros, porém criamos uma pasta "Models" que contém as classes para o Player e o Enemy, criamos também uma pasta "Content" e dentro dela mais 3 folders essencias: Sprites, Audio e Fonts; compostos por imagens, sons e as fontes de texto respetivemente. As classes restantes: Buttons, ScoreManager, Objeto, Mapa, EndState e Game1; ficaram na raiz do projeto.
 
 ![image](https://github.com/user-attachments/assets/da020c7f-ae78-4749-9e72-e570ec3d0f46)
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Player
 
-A class Player gerencia os controlos do personagem, juntamente com a criação do mesmo. Além disso, na class implementa-mos uma forma de o jogador atacar e tambem 
+A class Player é responsável por criar e gerir o personagem principal. Implementamos nesta classe as mecânicas de movimento, incluindo salto e velocidade, a direção para qual o player está virado e um sistema de ataque.
+Neste excerto de código temos o método "GetAttackBox()", onde é calculada a área de ataque do jogador assim como o método "Draw()", que senha o jogador no ecrã consoante o seu estado: iddle, a andar 
 ```
  public Rectangle? GetAttackBox()
  {
@@ -68,7 +69,8 @@ public void Die() => IsDead = true;
 ```
 ## Enemy
 
-A class Enemy serve para criar o inimigo, colocalo a andar de forma automática e a sua hitbox, também gerencia o tempo de criação dos inimigos, isto é, quando o jogador mata 5 inimigos o tempo de criação dos inimigos diminui passando de 3 segundos para 2.5 segundos e vai diminuindo até chegar ao tempo de criação de 1,5 segundos.
+Esta classe representa os inimigo do jogo. Criamos aqui a hitbox, lógica de movimento automático, da animação e fazemos a gestão de spawn dos mesmos.
+Implementamos também um sistema de dificuldade: cada vez que o jogador derrota 5 inimigos o tempo entre spawns diminui 0.5 segundos, indo dos iniciais 3 segundos até 1.5 onde fica até o player perder.
 ```
         // Static spawn logic
         private static float _spawnTimer = 0f;
@@ -182,7 +184,8 @@ A class Enemy serve para criar o inimigo, colocalo a andar de forma automática 
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Classe Button:
 
-Classe Base para a criação de um botão. Contem a Estrutura e Lógica do botão.
+Esta classe é usada para a criação de botões no ecrã. Contem toda a estrutura e lógica necessária para gerir o estado de um botão, inculindo detetar quando o cursor passa por cima e/ou clica no mesmo. Por fim, contém o método "Draw()" que é responsável por desenhar o botão no ecrã e trocar as suas cores quando está hovered.
+Aqui definimos os limites do botão, assim como o texto e a fonte.
 
 ```
 public Button(Rectangle bounds, string text, SpriteFont font)
@@ -191,26 +194,20 @@ public Button(Rectangle bounds, string text, SpriteFont font)
             Text = text;
             _font = font;
         }
-
+```
+No método "Update()" verificamos se o botão tem o cursor por cima e se foi clicado com o boão esquerdo do rato
+```
         public void Update(MouseState mouse, MouseState prevMouse)
         {
             IsHovered = Bounds.Contains(mouse.Position);
             IsClicked = IsHovered && mouse.LeftButton == ButtonState.Pressed && prevMouse.LeftButton == ButtonState.Released;
         }
-
-        public void Draw(SpriteBatch spriteBatch, Texture2D whitePixel)
-        {
-            Color color = IsHovered ? Color.LightGray : Color.Gray;
-            spriteBatch.Draw(whitePixel, Bounds, color);
-            var textSize = _font.MeasureString(Text);
-            var textPos = new Vector2(Bounds.Center.X - textSize.X / 2, Bounds.Center.Y - textSize.Y / 2);
-            spriteBatch.DrawString(_font, Text, textPos, Color.Black);
-        }
 ```
+
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Classe Camera:
 
-Classe que gere a posição da camera do jogador.Movimento vertical é limitado entre o topo do mundo e o chão e o movimento horizontal é limitado pelas dimensôes da arena.
+Classe que gere a posição da camera que segue jogador. O movimento vertical é limitado entre o topo do mundo e o chão, enquanto o movimento horizontal é restringido pelas dimensôes da arena.
 
 ```
 public Camera(int viewportWidth, int viewportHeight)
