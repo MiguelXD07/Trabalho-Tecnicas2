@@ -6,6 +6,13 @@ Miguel Ferreira - A31472
 
 Nuno Santos - A33191
 
+## Créditos dos sprites e audio
+https://pixabay.com/pt/
+
+https://opengameart.org
+
+https://mixkit.co
+
 ## Introdução
 Este projeto feito no âmbito da cadeira de Técnicas de Desenvolvimento de Jogos Digitais teve como objetico realizar um jogo de mundo aberto e linear em Monogame sem usar tiles.
 
