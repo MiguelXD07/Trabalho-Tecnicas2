@@ -18,8 +18,8 @@ namespace Tecnicas_2.Models
         private bool _isDying = false;
         private int _deathFrame = 0;
         private float _deathFrameTimer = 0f;
-        public bool IsDespawned { get; private set; } = false;
-        public Texture2D DeathTexture { get; set; }
+        public bool IsDespawned = false;
+        public Texture2D DeathTexture;
 
         // Movement
         private const float Speed = 80f;
@@ -37,7 +37,7 @@ namespace Tecnicas_2.Models
         private readonly float _rightEdge;
 
         // State
-        public bool IsAlive { get; private set; } = true;
+        public bool IsAlive = true;
 
         // Static spawn logic
         private static float _spawnTimer = 0f;
