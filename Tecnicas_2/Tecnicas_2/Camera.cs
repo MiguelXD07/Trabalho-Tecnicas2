@@ -21,7 +21,7 @@ namespace Tecnicas_2
             this.viewportHeight = viewportHeight;
         }
 
-        // Set world bounds (call this after loading the map)
+        // Set world bounds
         public void SetWorldBounds(int left, int right, int bottom)
         {
             worldLeft = left;
