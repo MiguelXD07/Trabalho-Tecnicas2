@@ -13,11 +13,11 @@ namespace Tecnicas_2
     {
         private List<Objeto> _objetos;
 
-        public int PisoLeft { get; private set; }
-        public int PisoRight { get; private set; }
-        public int PisoY { get; private set; }
-        public Objeto LeftTree { get; private set; }
-        public Objeto RightTree { get; private set; }
+        public int PisoLeft;
+        public int PisoRight;
+        public int PisoY;
+        public Objeto LeftTree;
+        public Objeto RightTree;
 
         public Mapa()
         {
