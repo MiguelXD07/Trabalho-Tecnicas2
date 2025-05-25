@@ -9,7 +9,7 @@ Nuno Santos - A33191
 ## Introdução
 Este projeto feito no âmbito da cadeira de Técnicas de Desenvolvimento de Jogos Digitais teve como objetico realizar um jogo de mundo aberto e linear em Monogame sem usar tiles.
 
-O jogo realizado pelo nosso grupo é um sidescroller arena survival em que o jogador tenta sobreviver os constantes ataques dos inimigos dentro de uma arena que se estende para ambos os lados. Pontos são acumulados ao longo do tempo para refletir o tempo de sobrevivência do jogador.
+O jogo realizado pelo nosso grupo é um sidescroller arena survival em que o jogador tenta sobreviver os constantes ataques dos inimigos dentro de uma arena que se estende para ambos os lados. Pontos são acumulados ao derrotar inimigos para refletir o tempo de sobrevivência do jogador e exibidos quando o jogador eventualmente perder.
 
 Os ficheiros não estão muito bem organizados, mas temos numa pasta Models as classes para o Player e Enemy e o resto na parte de fora como as classes Buttons, ScoreManager, Objeto, Mapa, EndState e Game1, tambem temos a pasta Content e dentro dessa pasta temos 3 pastas essencias Sprites, Audio e Fonts, que têm dentro de cada uma as imagens, os sons e as fontes de texto respetivamente.
 
@@ -499,4 +499,4 @@ static ScoreManager()
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Observações/Melhorias
 No momento o jogo está bastante funcional, mas podiamos adicionar mais algumas coisas e melhorias. Como por exemplo, um menú, com botões de play, ajuda para informações e sair, colocar inimigos especiais, melhorar a organização dos ficheiros e outrs ideias que temos em mente.
-Contudo, estamos orgulhosos com o que fizemos e talvez adicionare-mos as melhorias e ideias.
+Contudo, estamos orgulhosos com o que fizemos e talvez adicionaremos as melhorias e ideias.
